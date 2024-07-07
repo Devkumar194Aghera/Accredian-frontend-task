@@ -1,0 +1,49 @@
+.botton {
+  display: inline-block;
+  float: left;
+  background-color: white;
+  color: black;
+  border: 3px solid rgb(26 115 232);
+  cursor: pointer;
+  border-radius: 8px;
+  line-height: 2;
+  font-size: 21px;
+  height: 55px;
+  width: 15rem;
+  margin: 2.5rem;
+}
+.botton:hover {
+  background-color: rgb(26 115 232);
+  color: whitesmoke;
+  cursor: pointer;
+  text-align: center;
+}
+
+.botton1 {
+  display: inline-block;
+  float: left;
+  background-color: white;
+  color: black;
+  border: 3px solid rgb(26 115 232);
+  cursor: pointer;
+  border-radius: 8px;
+  line-height: 2;
+  font-size: 21px;
+  height: "45px";
+  width: "180px";
+}
+.botton1:hover {
+  background-color: rgb(26 115 232);
+  color: whitesmoke;
+  cursor: pointer;
+  text-align: center;
+}
+
+.err{
+  height: auto;
+  font-size: 15px;
+  width: auto;
+  margin-left: 4rem;
+  color: red;
+}
+

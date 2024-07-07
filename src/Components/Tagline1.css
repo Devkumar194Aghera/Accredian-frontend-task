@@ -1,0 +1,13 @@
+.tagline1{
+    width: 41rem;
+    font-size: 2.6rem;
+    font-weight: 670;
+    line-height: 130%;
+    text-align: left;
+    float: right;
+    padding-right: 5.3rem;
+    padding-top: 9rem;
+    text-wrap:pretty;
+    /* text-decoration: underline; */
+    overflow-wrap: break-word;
+}

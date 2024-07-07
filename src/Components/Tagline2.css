@@ -1,0 +1,12 @@
+.tagline2{
+    width: 41rem;
+    font-size: 1.5rem;
+    font-weight: 670;
+    line-height: 130%;
+    text-align: left;
+    float: right;
+    margin-top: 1rem;
+    padding-right: 5.3rem;
+    text-wrap:pretty;
+    overflow-wrap: break-word;
+}
